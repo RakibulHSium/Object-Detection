@@ -35,7 +35,7 @@ List some of the key features of your Object Detection system.
 
 Include a GIF, video, or image demonstrating your project's capabilities here.
 
-![Demo](demo.gif)
+(https://www.sium.tech)
 
 ## Installation
 
